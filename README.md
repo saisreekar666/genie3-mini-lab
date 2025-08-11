@@ -9,7 +9,7 @@ A lightweight, **Genie‑style** demo you can run locally to showcase:
 
 > ⚠️ This project does **not** include Google DeepMind's Genie 3. It provides a clean
 > interface (`genie_client.py`) so you can **swap in Genie 3** or any other world model
-> later. For now, it uses a procedural world generator so you can record a credible demo.
+> later.
 
 ## Quickstart
 
